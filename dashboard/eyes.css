@@ -1,0 +1,39 @@
+html {
+  background: #000;
+}
+
+.spy {
+  margin: 10% auto;
+  width: 60px;
+  height: 30px;
+}
+
+.eye {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #fff;
+  margin: 0px 6px;
+  animation: blink 3s infinite;
+  box-shadow: 0 0 10px 0px #fff;
+}
+.symbol {
+	display: inline-block;
+      color: #fff;
+    }
+
+@keyframes blink {
+  0% {
+    height: 10px;
+    margin-top: 0px;
+  }
+  1% {
+    height: 1px;
+    margin-top: -4px;
+  }
+  2% {
+    height: 10px;
+    margin-top: 0px;
+  }
+}

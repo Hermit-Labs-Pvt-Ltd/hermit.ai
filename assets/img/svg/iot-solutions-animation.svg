@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="259px" height="216px" viewBox="0 0 259 216" enable-background="new 0 0 259 216" xml:space="preserve">
+	 
+<style type="text/css">
+	.linestrock {
+	  stroke-dasharray: 6;
+	  animation: dash 5s infinite;
+	  -webkit-animation: dash 5s infinite;
+	  -moz-animation: dash 5s infinite;
+	  -ms-animation: dash 5s infinite;
+	  animation-timing-function: linear;
+	  -webkit-animation-timing-function: linear;
+	  -moz-animation-timing-function: linear;
+	  -ms-animation-timing-function: linear;
+
+	}
+	
+	@keyframes dash {
+	  to {
+		stroke-dashoffset: -200;
+	  }
+	}
+	@-moz-keyframes dash {
+	  to {
+		stroke-dashoffset: -200;
+	  }
+	}
+	@-webkit-@keyframes dash {
+	  to {
+		stroke-dashoffset: -200;
+	  }
+	}
+	@-o-@keyframes dash {
+	  to {
+		stroke-dashoffset: -200;
+	  }
+	}
+	@-ms-@keyframes dash {
+	  to {
+		stroke-dashoffset: -200;
+	  }
+	}
+</style>
+
+<g id="SVG_Start">
+	<rect fill="none" x="0" y="0" width="259px" height="216px">
+	<animate id="Sa" begin="0s;Sa.end" dur="2s" attributeName="visibility" from="visible" to="visible" /></rect>
+</g>
+
+<g>
+	<g>
+		<path fill="#21A5E8" d="M259,117.708c0-29.16-21.073-53.385-48.829-58.346c-9.653-16.958-27.887-28.402-48.808-28.402
+			c-1.835,0-3.647,0.095-5.438,0.267C146.21,12.671,126.772,0,104.36,0C72.232,0,46.187,26.022,46.187,58.123
+			c0,0.766,0.028,1.525,0.058,2.284C19.792,66.254,0,89.811,0,118c0,32.585,26.438,59,59.05,59h140.9v-0.007
+			C232.588,176.834,259,150.356,259,117.708z"/>
+	</g>
+</g>
+<g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M104.5,214.5c-7.995,0-14.5-6.505-14.5-14.5v-50
+		c0-7.995,6.505-14.5,14.5-14.5h50c7.995,0,14.5,6.505,14.5,14.5v50c0,7.995-6.505,14.5-14.5,14.5H104.5z"/>
+	<path fill="#21A5E8" d="M154.5,137c7.168,0,13,5.832,13,13v50c0,7.168-5.832,13-13,13h-50c-7.168,0-13-5.832-13-13v-50
+		c0-7.168,5.832-13,13-13H154.5 M154.5,134h-50c-8.836,0-16,7.163-16,16v50c0,8.837,7.164,16,16,16h50c8.837,0,16-7.163,16-16v-50
+		C170.5,141.163,163.337,134,154.5,134L154.5,134z"/>
+</g>
+<g>
+	<path d="M129.302,159.862c3.033,0,5.5,2.467,5.5,5.5s-2.467,5.5-5.5,5.5s-5.5-2.467-5.5-5.5S126.269,159.862,129.302,159.862
+		 M129.302,156.862c-4.694,0-8.5,3.806-8.5,8.5s3.806,8.5,8.5,8.5s8.5-3.806,8.5-8.5S133.996,156.862,129.302,156.862
+		L129.302,156.862z"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#020202" d="M108.954,190.164c2.209,0,4,1.791,4,4s-1.791,4-4,4s-4-1.791-4-4
+	S106.745,190.164,108.954,190.164z">
+	<animate attributeName="fill" attributeType="CSS" begin="Sa.begin+0.20s" dur="2s" fill="freeze" from="#020202" to="#21a5e8" />
+</path>	
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#020202" d="M129.302,190.164c2.209,0,4,1.791,4,4s-1.791,4-4,4s-4-1.791-4-4
+	S127.093,190.164,129.302,190.164z">
+	<animate attributeName="fill" attributeType="CSS" begin="Sa.begin+0.90s" dur="2s" fill="freeze" from="#020202" to="#21a5e8" />
+</path>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#020202" d="M149.302,190.164c2.209,0,4,1.791,4,4s-1.791,4-4,4s-4-1.791-4-4
+	S147.093,190.164,149.302,190.164z">
+	<animate attributeName="fill" attributeType="CSS" begin="Sa.begin+2s" dur="2s" fill="freeze" from="#020202" to="#21a5e8" />
+</path>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" d="
+	M129.5,124.75v16"/>
+<g>
+	<path fill="#FFFFFF" d="M129.302,111.036c3.033,0,5.5,2.467,5.5,5.5s-2.467,5.5-5.5,5.5s-5.5-2.467-5.5-5.5
+		S126.269,111.036,129.302,111.036 M129.302,108.036c-4.694,0-8.5,3.806-8.5,8.5s3.806,8.5,8.5,8.5s8.5-3.806,8.5-8.5
+		S133.996,108.036,129.302,108.036L129.302,108.036z"/>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M113.006,105.131
+			c3.52-9.021,13.687-13.482,22.708-9.962c4.567,1.782,8.18,5.395,9.962,9.962">
+			<animate attributeName="opacity" attributeType="CSS" begin="Sa.begin+0.05s" dur="3s" fill="freeze" from="0" to="1" />
+		</path>	
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M100.072,92.722
+			c10.713-16.187,32.521-20.624,48.708-9.91c3.935,2.604,7.306,5.975,9.91,9.91">
+			<animate attributeName="opacity" attributeType="CSS" begin="Sa.begin+0.50s" dur="3s" fill="freeze" from="0" to="1" />
+		</path>	
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M87.373,80.902
+			c17.296-23.153,50.086-27.901,73.239-10.605c2.138,1.597,4.15,3.355,6.02,5.258c1.651,1.678,3.188,3.464,4.6,5.347">
+			<animate attributeName="opacity" attributeType="CSS" begin="Sa.begin+0.90s" dur="3s" fill="freeze" from="0" to="1" />
+		</path>	
+	</g>
+</g>
+
+</svg>
+
